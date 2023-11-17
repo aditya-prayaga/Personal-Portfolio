@@ -9,7 +9,8 @@ This repo contains my portfolio data like my resume, my references, my Letter of
 # Reference from Previous employer
 <img width="715" alt="Screen Shot 2022-09-15 at 12 41 00 PM" src="https://user-images.githubusercontent.com/16273418/190460302-d663e2ad-72c8-4cd5-9e89-6aa5eecaec92.png">
 
-[Prayaga Aditya Sai Saandeep.pdf](https://github.com/aditya-prayaga/Personal-Portfolio/files/9577160/Prayaga.Aditya.Sai.Saandeep.pdf)
+[Prayaga Aditya Sai Saandeep.pdf](https://github.com/aditya-prayaga/Personal-Portfolio/files/13398171/Aditya_Prayaga.pdf)
+
 
 # Outstanding Performance Award
 <img width="713" alt="Screen Shot 2022-09-15 at 1 05 14 PM" src="https://user-images.githubusercontent.com/16273418/190467061-f10f0237-9f87-4070-a1b7-fe6c649c8daa.png">
@@ -20,25 +21,19 @@ This repo contains my portfolio data like my resume, my references, my Letter of
 
 [Dec 2021 - Outstanding Performance Award.pdf](https://github.com/aditya-prayaga/Personal-Portfolio/files/9577460/Dec.2021.-.Outstanding.Performance.Award.pdf)
 
+
+# AWS Certified Developer - Associate certificate (DVA-C02)
+[AWS Certified Developer - Associate certificate.pdf](https://github.com/aditya-prayaga/Personal-Portfolio/files/13398117/AWS.Certified.Developer.-.Associate.certificate.pdf)
+
+
+# HashiCorp Certified: Terraform Associate (003)
+[TerraformAssociate00320231007-29-fdcgar.pdf](https://github.com/aditya-prayaga/Personal-Portfolio/files/13398139/TerraformAssociate00320231007-29-fdcgar.pdf)
+
+
 # Letter of Recommendation from Manager Artur Niyazov
 <img width="654" alt="Screen Shot 2022-09-15 at 12 44 26 PM" src="https://user-images.githubusercontent.com/16273418/190461465-fd57c060-62de-46bd-a11c-4957677630a1.png">
 
 [LOR_Artur.pdf](https://github.com/aditya-prayaga/Personal-Portfolio/files/9577350/LOR_Artur.pdf)
-
-# Letter of Recommendation from Dr. B.V. Kiranmayee
-<img width="653" alt="Screen Shot 2022-09-15 at 12 46 18 PM" src="https://user-images.githubusercontent.com/16273418/190463244-1a194eee-053e-4494-83de-285ce78c0001.png">
-
-[Letter_Of_Recommendation Aditya.pdf](https://github.com/aditya-prayaga/Personal-Portfolio/files/9577412/Letter_Of_Recommendation.Aditya.pdf)
-
-# Letter of Recommendation from Dr. M. Raja Sekar
-<img width="652" alt="Screen Shot 2022-09-15 at 12 43 28 PM" src="https://user-images.githubusercontent.com/16273418/190463271-9730d9cf-3289-42b9-9910-6aa68a2df128.png">
-
-[Recommendation for Aditya.pdf](https://github.com/aditya-prayaga/Personal-Portfolio/files/9577414/Recommendation.for.Aditya.pdf)
-
-# Letter of Recommendation from Dr. P. Neelakantan
-<img width="653" alt="Screen Shot 2022-09-15 at 12 45 28 PM" src="https://user-images.githubusercontent.com/16273418/190463302-48d831ee-ddf5-4123-bbe0-f55e98384e7f.png">
-
-[LOR Aditya.pdf](https://github.com/aditya-prayaga/Personal-Portfolio/files/9577415/LOR.Aditya.pdf)
 
 # NPTEL's Introduction to Machine Learning
 <img width="714" alt="Screen Shot 2022-09-15 at 1 11 16 PM" src="https://user-images.githubusercontent.com/16273418/190468394-60df40d8-e903-41a3-b39b-4e993e167558.png">
